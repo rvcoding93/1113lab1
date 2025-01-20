@@ -4,7 +4,7 @@
 # KSU Email Address: rvince13@students.kennesaw.edu
 # Assignment Lab Number: 1
 # Due Date: 01/19/2025
-# # Purpose: What does the program do(in a few sentences)?
+# # Purpose: What does the program do(in a few sentences)? This program takes user input to create an array of books:prices, then creates a receipt listing and adding the prices/names
 
 #establishes the bookstore function
 def bookstore_checkout():
